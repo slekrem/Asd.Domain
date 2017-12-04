@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Asd.Domain</id>
+    <version>1.0.3</version>
+    <title>Asd.Domain</title>
+    <authors>stefan</authors>
+    <owners>stefan</owners>
+    <licenseUrl>https://github.com/stefanmerkel/Asd.Domain</licenseUrl>
+    <projectUrl>https://github.com/stefanmerkel/Asd.Domain</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>-</description>
+    <releaseNotes>-</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <dependencies>
+      <dependency id="FluentValidation" version="7.2.1" />
+      <dependency id="Asd.Domain.Core" version="1.0.2" />
+    </dependencies>
+  </metadata>
+</package>
